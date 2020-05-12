@@ -1,0 +1,303 @@
+[submodule "repos/aws-pod-identity-webhook"]
+	path = repos/aws-pod-identity-webhook
+	url = https://github.com/openshift/aws-pod-identity-webhook
+[submodule "repos/baremetal-operator"]
+	path = repos/baremetal-operator
+	url = https://github.com/openshift/baremetal-operator
+[submodule "repos/baremetal-runtimecfg"]
+	path = repos/baremetal-runtimecfg
+	url = https://github.com/openshift/baremetal-runtimecfg
+[submodule "repos/builder"]
+	path = repos/builder
+	url = https://github.com/openshift/builder
+[submodule "repos/cloud-credential-operator"]
+	path = repos/cloud-credential-operator
+	url = https://github.com/openshift/cloud-credential-operator
+[submodule "repos/cluster-api-provider-aws"]
+	path = repos/cluster-api-provider-aws
+	url = https://github.com/openshift/cluster-api-provider-aws
+[submodule "repos/cluster-api-provider-azure"]
+	path = repos/cluster-api-provider-azure
+	url = https://github.com/openshift/cluster-api-provider-azure
+[submodule "repos/cluster-api-provider-baremetal"]
+	path = repos/cluster-api-provider-baremetal
+	url = https://github.com/openshift/cluster-api-provider-baremetal
+[submodule "repos/cluster-api-provider-gcp"]
+	path = repos/cluster-api-provider-gcp
+	url = https://github.com/openshift/cluster-api-provider-gcp
+[submodule "repos/cluster-api-provider-libvirt"]
+	path = repos/cluster-api-provider-libvirt
+	url = https://github.com/openshift/cluster-api-provider-libvirt
+[submodule "repos/cluster-api-provider-openstack"]
+	path = repos/cluster-api-provider-openstack
+	url = https://github.com/openshift/cluster-api-provider-openstack
+[submodule "repos/cluster-api-provider-ovirt"]
+	path = repos/cluster-api-provider-ovirt
+	url = https://github.com/openshift/cluster-api-provider-ovirt
+[submodule "repos/cluster-authentication-operator"]
+	path = repos/cluster-authentication-operator
+	url = https://github.com/openshift/cluster-authentication-operator
+[submodule "repos/cluster-autoscaler-operator"]
+	path = repos/cluster-autoscaler-operator
+	url = https://github.com/openshift/cluster-autoscaler-operator
+[submodule "repos/cluster-bootstrap"]
+	path = repos/cluster-bootstrap
+	url = https://github.com/openshift/cluster-bootstrap
+[submodule "repos/cluster-config-operator"]
+	path = repos/cluster-config-operator
+	url = https://github.com/openshift/cluster-config-operator
+[submodule "repos/cluster-csi-snapshot-controller-operator"]
+	path = repos/cluster-csi-snapshot-controller-operator
+	url = https://github.com/openshift/cluster-csi-snapshot-controller-operator
+[submodule "repos/cluster-dns-operator"]
+	path = repos/cluster-dns-operator
+	url = https://github.com/openshift/cluster-dns-operator
+[submodule "repos/cluster-etcd-operator"]
+	path = repos/cluster-etcd-operator
+	url = https://github.com/openshift/cluster-etcd-operator
+[submodule "repos/cluster-image-registry-operator"]
+	path = repos/cluster-image-registry-operator
+	url = https://github.com/openshift/cluster-image-registry-operator
+[submodule "repos/cluster-ingress-operator"]
+	path = repos/cluster-ingress-operator
+	url = https://github.com/openshift/cluster-ingress-operator
+[submodule "repos/cluster-kube-apiserver-operator"]
+	path = repos/cluster-kube-apiserver-operator
+	url = https://github.com/openshift/cluster-kube-apiserver-operator
+[submodule "repos/cluster-kube-controller-manager-operator"]
+	path = repos/cluster-kube-controller-manager-operator
+	url = https://github.com/openshift/cluster-kube-controller-manager-operator
+[submodule "repos/cluster-kube-scheduler-operator"]
+	path = repos/cluster-kube-scheduler-operator
+	url = https://github.com/openshift/cluster-kube-scheduler-operator
+[submodule "repos/cluster-kube-storage-version-migrator-operator"]
+	path = repos/cluster-kube-storage-version-migrator-operator
+	url = https://github.com/openshift/cluster-kube-storage-version-migrator-operator
+[submodule "repos/cluster-machine-approver"]
+	path = repos/cluster-machine-approver
+	url = https://github.com/openshift/cluster-machine-approver
+[submodule "repos/cluster-monitoring-operator"]
+	path = repos/cluster-monitoring-operator
+	url = https://github.com/openshift/cluster-monitoring-operator
+[submodule "repos/cluster-network-operator"]
+	path = repos/cluster-network-operator
+	url = https://github.com/openshift/cluster-network-operator
+[submodule "repos/cluster-node-tuning-operator"]
+	path = repos/cluster-node-tuning-operator
+	url = https://github.com/openshift/cluster-node-tuning-operator
+[submodule "repos/cluster-openshift-apiserver-operator"]
+	path = repos/cluster-openshift-apiserver-operator
+	url = https://github.com/openshift/cluster-openshift-apiserver-operator
+[submodule "repos/cluster-openshift-controller-manager-operator"]
+	path = repos/cluster-openshift-controller-manager-operator
+	url = https://github.com/openshift/cluster-openshift-controller-manager-operator
+[submodule "repos/cluster-policy-controller"]
+	path = repos/cluster-policy-controller
+	url = https://github.com/openshift/cluster-policy-controller
+[submodule "repos/cluster-samples-operator"]
+	path = repos/cluster-samples-operator
+	url = https://github.com/openshift/cluster-samples-operator
+[submodule "repos/cluster-storage-operator"]
+	path = repos/cluster-storage-operator
+	url = https://github.com/openshift/cluster-storage-operator
+[submodule "repos/cluster-svcat-apiserver-operator"]
+	path = repos/cluster-svcat-apiserver-operator
+	url = https://github.com/openshift/cluster-svcat-apiserver-operator
+[submodule "repos/cluster-svcat-controller-manager-operator"]
+	path = repos/cluster-svcat-controller-manager-operator
+	url = https://github.com/openshift/cluster-svcat-controller-manager-operator
+[submodule "repos/cluster-update-keys"]
+	path = repos/cluster-update-keys
+	url = https://github.com/openshift/cluster-update-keys
+[submodule "repos/cluster-version-operator"]
+	path = repos/cluster-version-operator
+	url = https://github.com/openshift/cluster-version-operator
+[submodule "repos/configmap-reload"]
+	path = repos/configmap-reload
+	url = https://github.com/openshift/configmap-reload
+[submodule "repos/console"]
+	path = repos/console
+	url = https://github.com/openshift/console
+[submodule "repos/console-operator"]
+	path = repos/console-operator
+	url = https://github.com/openshift/console-operator
+[submodule "repos/containernetworking-plugins"]
+	path = repos/containernetworking-plugins
+	url = https://github.com/openshift/containernetworking-plugins
+[submodule "repos/coredns"]
+	path = repos/coredns
+	url = https://github.com/openshift/coredns
+[submodule "repos/csi-external-snapshotter"]
+	path = repos/csi-external-snapshotter
+	url = https://github.com/openshift/csi-external-snapshotter
+[submodule "repos/etcd"]
+	path = repos/etcd
+	url = https://github.com/openshift/etcd
+[submodule "repos/grafana"]
+	path = repos/grafana
+	url = https://github.com/openshift/grafana
+[submodule "repos/image-registry"]
+	path = repos/image-registry
+	url = https://github.com/openshift/image-registry
+[submodule "repos/images"]
+	path = repos/images
+	url = https://github.com/openshift/images
+[submodule "repos/insights-operator"]
+	path = repos/insights-operator
+	url = https://github.com/openshift/insights-operator
+[submodule "repos/installer"]
+	path = repos/installer
+	url = https://github.com/openshift/installer
+[submodule "repos/ironic-hardware-inventory-recorder-image"]
+	path = repos/ironic-hardware-inventory-recorder-image
+	url = https://github.com/openshift/ironic-hardware-inventory-recorder-image
+[submodule "repos/ironic-image"]
+	path = repos/ironic-image
+	url = https://github.com/openshift/ironic-image
+[submodule "repos/ironic-inspector-image"]
+	path = repos/ironic-inspector-image
+	url = https://github.com/openshift/ironic-inspector-image
+[submodule "repos/ironic-ipa-downloader"]
+	path = repos/ironic-ipa-downloader
+	url = https://github.com/openshift/ironic-ipa-downloader
+[submodule "repos/ironic-rhcos-downloader"]
+	path = repos/ironic-rhcos-downloader
+	url = https://github.com/openshift/ironic-rhcos-downloader
+[submodule "repos/ironic-static-ip-manager"]
+	path = repos/ironic-static-ip-manager
+	url = https://github.com/openshift/ironic-static-ip-manager
+[submodule "repos/jenkins"]
+	path = repos/jenkins
+	url = https://github.com/openshift/jenkins
+[submodule "repos/k8s-prometheus-adapter"]
+	path = repos/k8s-prometheus-adapter
+	url = https://github.com/openshift/k8s-prometheus-adapter
+[submodule "repos/kubecsr"]
+	path = repos/kubecsr
+	url = https://github.com/openshift/kubecsr
+[submodule "repos/kube-rbac-proxy"]
+	path = repos/kube-rbac-proxy
+	url = https://github.com/openshift/kube-rbac-proxy
+[submodule "repos/kubernetes-autoscaler"]
+	path = repos/kubernetes-autoscaler
+	url = https://github.com/openshift/kubernetes-autoscaler
+[submodule "repos/kubernetes-kube-storage-version-migrator"]
+	path = repos/kubernetes-kube-storage-version-migrator
+	url = https://github.com/openshift/kubernetes-kube-storage-version-migrator
+[submodule "repos/kube-state-metrics"]
+	path = repos/kube-state-metrics
+	url = https://github.com/openshift/kube-state-metrics
+[submodule "repos/kuryr-kubernetes"]
+	path = repos/kuryr-kubernetes
+	url = https://github.com/openshift/kuryr-kubernetes
+[submodule "repos/machine-api-operator"]
+	path = repos/machine-api-operator
+	url = https://github.com/openshift/machine-api-operator
+[submodule "repos/machine-config-operator"]
+	path = repos/machine-config-operator
+	url = https://github.com/openshift/machine-config-operator
+[submodule "repos/mdns-publisher"]
+	path = repos/mdns-publisher
+	url = https://github.com/openshift/mdns-publisher
+[submodule "repos/multus-admission-controller"]
+	path = repos/multus-admission-controller
+	url = https://github.com/openshift/multus-admission-controller
+[submodule "repos/multus-cni"]
+	path = repos/multus-cni
+	url = https://github.com/openshift/multus-cni
+[submodule "repos/must-gather"]
+	path = repos/must-gather
+	url = https://github.com/openshift/must-gather
+[submodule "repos/node_exporter"]
+	path = repos/node_exporter
+	url = https://github.com/openshift/node_exporter
+[submodule "repos/oauth-proxy"]
+	path = repos/oauth-proxy
+	url = https://github.com/openshift/oauth-proxy
+[submodule "repos/oauth-server"]
+	path = repos/oauth-server
+	url = https://github.com/openshift/oauth-server
+[submodule "repos/oc"]
+	path = repos/oc
+	url = https://github.com/openshift/oc
+[submodule "repos/openshift-apiserver"]
+	path = repos/openshift-apiserver
+	url = https://github.com/openshift/openshift-apiserver
+[submodule "repos/openshift-controller-manager"]
+	path = repos/openshift-controller-manager
+	url = https://github.com/openshift/openshift-controller-manager
+[submodule "repos/openshift-state-metrics"]
+	path = repos/openshift-state-metrics
+	url = https://github.com/openshift/openshift-state-metrics
+[submodule "repos/openshift-tuned"]
+	path = repos/openshift-tuned
+	url = https://github.com/openshift/openshift-tuned
+[submodule "repos/origin"]
+	path = repos/origin
+	url = https://github.com/openshift/origin
+[submodule "repos/ovn-kubernetes"]
+	path = repos/ovn-kubernetes
+	url = https://github.com/openshift/ovn-kubernetes
+[submodule "repos/prometheus"]
+	path = repos/prometheus
+	url = https://github.com/openshift/prometheus
+[submodule "repos/prometheus-alertmanager"]
+	path = repos/prometheus-alertmanager
+	url = https://github.com/openshift/prometheus-alertmanager
+[submodule "repos/prometheus-operator"]
+	path = repos/prometheus-operator
+	url = https://github.com/openshift/prometheus-operator
+[submodule "repos/prom-label-proxy"]
+	path = repos/prom-label-proxy
+	url = https://github.com/openshift/prom-label-proxy
+[submodule "repos/route-override-cni"]
+	path = repos/route-override-cni
+	url = https://github.com/openshift/route-override-cni
+[submodule "repos/router"]
+	path = repos/router
+	url = https://github.com/openshift/router
+[submodule "repos/sdn"]
+	path = repos/sdn
+	url = https://github.com/openshift/sdn
+[submodule "repos/service-ca-operator"]
+	path = repos/service-ca-operator
+	url = https://github.com/openshift/service-ca-operator
+[submodule "repos/sig-storage-local-static-provisioner"]
+	path = repos/sig-storage-local-static-provisioner
+	url = https://github.com/openshift/sig-storage-local-static-provisioner
+[submodule "repos/telemeter"]
+	path = repos/telemeter
+	url = https://github.com/openshift/telemeter
+[submodule "repos/thanos"]
+	path = repos/thanos
+	url = https://github.com/openshift/thanos
+[submodule "repos/whereabouts-cni"]
+	path = repos/whereabouts-cni
+	url = https://github.com/openshift/whereabouts-cni
+[submodule "repos/operator-lifecycle-manager"]
+	path = repos/operator-lifecycle-manager
+	url = https://github.com/operator-framework/operator-lifecycle-manager
+[submodule "repos/operator-marketplace"]
+	path = repos/operator-marketplace
+	url = https://github.com/operator-framework/operator-marketplace
+[submodule "repos/operator-registry"]
+	path = repos/operator-registry
+	url = https://github.com/operator-framework/operator-registry
+[submodule "lib/kubernetes"]
+	path = lib/kubernetes
+	url = https://github.com/openshift/kubernetes
+[submodule "lib/library-go"]
+	path = lib/library-go
+	url = https://github.com/openshift/library-go
+[submodule "lib/api"]
+	path = lib/api
+	url = https://github.com/openshift/api
+[submodule "lib/client-go"]
+	path = lib/client-go
+	url = https://github.com/openshift/client-go
+[submodule "lib/apiserver-library-go"]
+	path = lib/apiserver-library-go
+	url = https://github.com/openshift/apiserver-library-go
+[submodule "lib/build-machinery-go"]
+	path = lib/build-machinery-go
+	url = https://github.com/openshift/build-machinery-go
