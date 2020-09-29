@@ -301,3 +301,48 @@
 [submodule "lib/build-machinery-go"]
 	path = lib/build-machinery-go
 	url = https://github.com/openshift/build-machinery-go
+[submodule "repos/aws-ebs-csi-driver"]
+	path = repos/aws-ebs-csi-driver
+	url = https://github.com/openshift/aws-ebs-csi-driver
+[submodule "repos/aws-ebs-csi-driver-operator"]
+	path = repos/aws-ebs-csi-driver-operator
+	url = https://github.com/openshift/aws-ebs-csi-driver-operator
+[submodule "repos/cloud-provider-openstack"]
+	path = repos/cloud-provider-openstack
+	url = https://github.com/openshift/cloud-provider-openstack
+[submodule "repos/csi-driver-manila-operator"]
+	path = repos/csi-driver-manila-operator
+	url = https://github.com/openshift/csi-driver-manila-operator
+[submodule "repos/csi-driver-nfs"]
+	path = repos/csi-driver-nfs
+	url = https://github.com/openshift/csi-driver-nfs
+[submodule "repos/csi-external-attacher"]
+	path = repos/csi-external-attacher
+	url = https://github.com/openshift/csi-external-attacher
+[submodule "repos/csi-external-provisioner"]
+	path = repos/csi-external-provisioner
+	url = https://github.com/openshift/csi-external-provisioner
+[submodule "repos/csi-external-resizer"]
+	path = repos/csi-external-resizer
+	url = https://github.com/openshift/csi-external-resizer
+[submodule "repos/csi-livenessprobe"]
+	path = repos/csi-livenessprobe
+	url = https://github.com/openshift/csi-livenessprobe
+[submodule "repos/csi-node-driver-registrar"]
+	path = repos/csi-node-driver-registrar
+	url = https://github.com/openshift/csi-node-driver-registrar
+[submodule "repos/kubernetes"]
+	path = repos/kubernetes
+	url = https://github.com/openshift/kubernetes
+[submodule "repos/network-metrics-daemon"]
+	path = repos/network-metrics-daemon
+	url = https://github.com/openshift/network-metrics-daemon
+[submodule "repos/oauth-apiserver"]
+	path = repos/oauth-apiserver
+	url = https://github.com/openshift/oauth-apiserver
+[submodule "repos/ovirt-csi-driver"]
+	path = repos/ovirt-csi-driver
+	url = https://github.com/openshift/ovirt-csi-driver
+[submodule "repos/ovirt-csi-driver-operator"]
+	path = repos/ovirt-csi-driver-operator
+	url = https://github.com/openshift/ovirt-csi-driver-operator
